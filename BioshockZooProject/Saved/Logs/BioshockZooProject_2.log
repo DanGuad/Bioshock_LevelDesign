@@ -3181,3 +3181,76 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.02.21-00.58.18:507][576]LogSavePackage: Moving 'G:/School/Drexel/2022 _ Winter/Arch Level Design/BioshockZoo/Bioshock_LevelDesign/BioshockZooProject/Saved/ZooLevel_Auto77E82230B474263CAAB548B8EDC21FC9E.tmp' to 'G:/School/Drexel/2022 _ Winter/Arch Level Design/BioshockZoo/Bioshock_LevelDesign/BioshockZooProject/Saved/Autosaves/Game/Maps/ZooLevel_Auto7.umap'
 [2022.02.21-00.58.18:537][576]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/ZooLevel' took 0.554
 [2022.02.21-00.58.18:537][576]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.554
+[2022.02.21-01.13.32:145][664]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2022.02.21-01.14.09:634][484]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2022.02.21-01.14.10:450][522]Cmd: DELETE
+[2022.02.21-01.14.10:450][522]Cmd: ACTOR DELETE
+[2022.02.21-01.14.10:480][522]LogEditorActor: Deleted Actor: Brush
+[2022.02.21-01.14.10:495][522]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2022.02.21-01.14.10:521][522]LogEditorActor: Deleted 1 Actors (0.070 secs)
+[2022.02.21-01.15.05:186][ 10]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2022.02.21-01.15.05:743][ 10]LogSavePackage: Moving 'G:/School/Drexel/2022 _ Winter/Arch Level Design/BioshockZoo/Bioshock_LevelDesign/BioshockZooProject/Saved/ZooLevel_Auto8D2B13A1146D9AE02332024A35D5FA3AE.tmp' to 'G:/School/Drexel/2022 _ Winter/Arch Level Design/BioshockZoo/Bioshock_LevelDesign/BioshockZooProject/Saved/Autosaves/Game/Maps/ZooLevel_Auto8.umap'
+[2022.02.21-01.15.05:751][ 10]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/ZooLevel' took 0.595
+[2022.02.21-01.15.05:751][ 10]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.595
+[2022.02.21-01.16.20:040][451]LogEditorViewport: Clicking on Actor (LMB): Blockout_Railing_C (Blockout_Railing5)
+[2022.02.21-01.25.06:110][451]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2022.02.21-01.25.06:528][451]LogSavePackage: Moving 'G:/School/Drexel/2022 _ Winter/Arch Level Design/BioshockZoo/Bioshock_LevelDesign/BioshockZooProject/Saved/ZooLevel_Auto989198264417C157F1562AB9138619E5B.tmp' to 'G:/School/Drexel/2022 _ Winter/Arch Level Design/BioshockZoo/Bioshock_LevelDesign/BioshockZooProject/Saved/Autosaves/Game/Maps/ZooLevel_Auto9.umap'
+[2022.02.21-01.25.06:536][451]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/ZooLevel' took 0.446
+[2022.02.21-01.25.06:536][451]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.446
+[2022.02.21-01.29.23:361][398]LogEditorViewport: Clicking on Actor (LMB): Blockout_Stairs_Linear_C (Blockout_Stairs_Linear)
+[2022.02.21-01.29.28:964][640]LogEditorViewport: Clicking on Actor (CTRL LMB): Blockout_Doorway_C (Blockout_Doorway)
+[2022.02.21-01.29.49:546][597]Cmd: DELETE
+[2022.02.21-01.29.49:546][597]Cmd: ACTOR DELETE
+[2022.02.21-01.29.49:575][597]LogEditorActor: Deleted Actor: Blockout_Stairs_Linear_C
+[2022.02.21-01.29.49:577][597]LogEditorActor: Deleted Actor: Blockout_Stairs_Linear_C
+[2022.02.21-01.29.49:578][597]LogEditorActor: Deleted Actor: Blockout_Stairs_Linear_C
+[2022.02.21-01.29.49:579][597]LogEditorActor: Deleted Actor: Blockout_Stairs_Linear_C
+[2022.02.21-01.29.49:580][597]LogEditorActor: Deleted Actor: Blockout_Railing_C
+[2022.02.21-01.29.49:581][597]LogEditorActor: Deleted Actor: Blockout_Railing_C
+[2022.02.21-01.29.49:582][597]LogEditorActor: Deleted Actor: Blockout_Railing_C
+[2022.02.21-01.29.49:583][597]LogEditorActor: Deleted Actor: Blockout_Railing_C
+[2022.02.21-01.29.49:584][597]LogEditorActor: Deleted Actor: Blockout_Doorway_C
+[2022.02.21-01.29.49:584][597]LogEditorActor: Deleted Actor: Blockout_Railing_C
+[2022.02.21-01.29.49:586][597]LogEditorActor: Deleted Actor: Blockout_Railing_C
+[2022.02.21-01.29.49:587][597]LogEditorActor: Deleted Actor: Blockout_Stairs_Linear_C
+[2022.02.21-01.29.49:601][597]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2022.02.21-01.29.49:604][597]LogEditorActor: Deleted 12 Actors (0.059 secs)
+[2022.02.21-01.30.12:184][219]LogSlate: Window 'Plugins' being destroyed
+[2022.02.21-01.30.12:188][219]LogSlate: Window 'Plugins' being destroyed
+[2022.02.21-01.30.12:188][219]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/' was aborted.
+[2022.02.21-01.30.28:358][135]Cmd: CLOSE_SLATE_MAINFRAME
+[2022.02.21-01.30.28:392][135]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2022.02.21-01.30.29:527][135]LogSlate: Window 'Save Content' being destroyed
+[2022.02.21-01.30.29:561][135]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2022.02.21-01.30.29:764][135]LogSavePackage: Moving 'G:/School/Drexel/2022 _ Winter/Arch Level Design/BioshockZoo/Bioshock_LevelDesign/BioshockZooProject/Saved/ZooLevel0B94F2F444E1B67AA8246AADF2D36CE3.tmp' to 'G:/School/Drexel/2022 _ Winter/Arch Level Design/BioshockZoo/Bioshock_LevelDesign/BioshockZooProject/Content/Maps/ZooLevel.umap'
+[2022.02.21-01.30.29:820][135]LogFileHelpers: Saving map 'ZooLevel' took 0.272
+[2022.02.21-01.30.30:009][135]LogSlate: Window 'Plugins' being destroyed
+[2022.02.21-01.30.30:012][135]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/' was aborted.
+[2022.02.21-01.30.30:014][135]LogSlate: Window 'BioshockZooProject - Unreal Editor' being destroyed
+[2022.02.21-01.30.30:470][135]LogSlate: Window 'High Resolution Screenshot' being destroyed
+[2022.02.21-01.30.30:771][135]AssetCheck: New page: Asset Save: ZooLevel
+[2022.02.21-01.30.30:771][135]LogContentValidation: Display: Validating World /Game/Maps/ZooLevel.ZooLevel
+[2022.02.21-01.30.30:772][136]Cmd: QUIT_EDITOR
+[2022.02.21-01.30.30:799][136]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2022.02.21-01.30.31:010][136]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2022.02.21-01.30.33:809][136]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2022.02.21-01.30.33:816][136]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2022.02.21-01.30.33:819][136]LogAudio: Display: Audio Device unregistered from world 'ZooLevel'.
+[2022.02.21-01.30.33:822][136]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.02.21-01.30.33:825][136]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.02.21-01.30.33:920][136]LogAudio: Display: Audio Device Manager Shutdown
+[2022.02.21-01.30.33:931][136]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.02.21-01.30.34:008][136]LogExit: Preparing to exit.
+[2022.02.21-01.30.35:288][136]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2022.02.21-01.30.40:597][136]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.02.21-01.30.40:597][136]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.02.21-01.30.40:597][136]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.02.21-01.30.40:597][136]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.02.21-01.30.40:597][136]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.02.21-01.30.40:597][136]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.02.21-01.30.40:597][136]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.02.21-01.30.40:597][136]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2022.02.21-01.30.41:228][136]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2022.02.21-01.30.42:270][136]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2022.02.21-01.30.42:357][136]LogExit: Editor shut down
+[2022.02.21-01.30.42:371][136]LogExit: Transaction tracking system shut down
